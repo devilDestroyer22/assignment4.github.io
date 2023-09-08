@@ -1,0 +1,113 @@
+
+.topPage{
+
+    display: flex;
+    align-items: center;
+    background-color: rgb(131, 193, 193);
+}
+
+.header1{
+
+    margin-left: 30px;
+    padding-top: 5px;
+}
+
+.dropDownArrow{
+
+    border: none;
+    background-color: rgb(131, 193, 193);
+}
+
+.registerSentence{
+
+    text-decoration: underline;
+}
+
+.firstName{
+
+    display: flex;
+    align-items: center;
+}
+
+.fnField{
+
+    flex:0.13
+}
+
+.asterick1{
+
+    color: red;
+    margin-left: 5px;
+}
+
+.lastName{
+
+    display: flex;
+    align-items: center;
+}
+
+.lnField{
+
+    flex:0.13;
+}
+
+.companyName{
+
+    display: flex;
+    align-items: center;
+}
+
+.cnField{
+
+    flex: 0.13;
+}
+
+.addressName{
+
+    display: flex;
+    align-items: baseline;
+}
+
+.addFieldBox{
+
+    flex: 0.13;
+}
+
+.cityName{
+
+    display: flex;
+    align-items: center;
+
+}
+
+.cityField{
+
+    flex: 0.13; 
+}
+
+.stateProvinceName{
+
+    display: flex;
+    align-items: center;
+}
+
+.stateProvinceField{
+
+    flex: 0.13;
+    margin-right: 9px;
+}
+
+.countryName{
+
+    display: flex;
+    align-items: center;
+
+}
+
+.countryField{
+
+    flex: 0.13;
+    margin-right: 17px;
+    
+}
+
