@@ -116,8 +116,9 @@
 
 .resetButton{
 
-    background-color: rgb(131, 193, 193);
     color:white;
     cursor: pointer;
     border: none;
+    background-color: rgb(131, 193, 193);
+    margin-right: 300;
 }
