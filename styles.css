@@ -43,6 +43,18 @@
     font-weight: bold;
 }
 
+.bottom-container{
+
+    padding: 20px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    display: flex;
+    background-color: lightgray;
+    margin-bottom: 80px;
+}
+
 
 .firstName, .lastName, .companyName, .addressName, .cityName, .stateProvinceName, .countryName, .emailName, .phoneNumber{
 
@@ -108,9 +120,9 @@
     background-color: rgb(131, 193, 193);
     color:white;
     cursor: pointer;
-    margin-top: 550px;
-    margin-right: 650px;
     border: none;
+    margin-left: 600;
+    
 
 }
 
@@ -120,5 +132,5 @@
     cursor: pointer;
     border: none;
     background-color: rgb(131, 193, 193);
-    margin-right: 300;
+    margin-left: 10px
 }
